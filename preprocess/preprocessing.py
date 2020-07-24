@@ -11,7 +11,6 @@ output_dir = "../data/"
 
 def preprocessing(question, annotation_dir, image_dir, labeled):
 
-
     with open(question, 'r') as f:
         data = json.load(f)
         questions = data['questions']
@@ -62,7 +61,6 @@ def tokenizer(sentence):
     tokens = regex.split(sentence.lower())
     tokens = [w.strip() for w in tokens if len(w.strip()) > 0]
     return tokens
-
 
 def match_top_ans(annotation_ans):
 

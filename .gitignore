@@ -1,8 +1,12 @@
 # data
 
-/data
+data
 *.txt
 *.npy
 *.json
 
+# file
 
+model/__pycache__
+ckpt
+log
