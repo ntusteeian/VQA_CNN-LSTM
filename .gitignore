@@ -8,5 +8,5 @@ data
 # file
 
 model/__pycache__
-ckpt
-log
+ckpt*
+log*
