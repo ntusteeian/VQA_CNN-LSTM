@@ -4,6 +4,8 @@ Pytorch implementation of the following papers:
 * Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering
   (https://arxiv.org/pdf/1612.00837.pdf)
 ![model](./png/CNN_LSTM.png)
+## Results
+
 ## Dataset
 VQA v2.0 release
 - Real 
