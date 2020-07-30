@@ -5,7 +5,29 @@ Pytorch implementation of the following papers:
   (https://arxiv.org/pdf/1612.00837.pdf)
 ![model](./png/CNN_LSTM.png)
 ## Results
+The table shows that the performance of our implementation and original paper. 
 
+|  | All | Yes/No | Number | Other |
+| ------ | ------ | ------ | ------ | ------ |
+| Implement | 49.15% | 67.42% | 32.44% | 37.28% |
+| Original Paper | 54.22% | 73.46% | 35.18% | 41.38% |
+
+Here is the example of VQA task. 
+![model](./png/What is behind the bench.png) 
+What is behind the bench ?
+
+* Answer 1: trees
+* Answer 2: grass
+* Answer 3: forest
+* Answer 4: brush
+* Answer 5: leafs
+* Answer 6: trees
+* Answer 7: plants
+* Answer 8: grass
+* Answer 9: trees
+* Answer 10: brush
+
+Generated Answer: trees (90%)
 ## Dataset
 VQA v2.0 release
 - Real 
