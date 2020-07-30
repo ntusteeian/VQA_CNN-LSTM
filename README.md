@@ -13,7 +13,7 @@ The table shows that the performance of our implementation and original paper.
 | Original Paper | 54.22% | 73.46% | 35.18% | 41.38% |
 
 Here is the example of VQA task. 
-![result](./png/What is behind the bench.png) 
+![result](./png/What_is_behind_the_bench.png) 
 What is behind the bench ?
 
 * Answer 1: trees
