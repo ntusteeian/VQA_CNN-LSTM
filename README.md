@@ -12,7 +12,7 @@ The table shows that the performance of our implementation and original paper.
 | Implement | 49.15% | 67.42% | 32.44% | 37.28% |
 | Original Paper | 54.22% | 73.46% | 35.18% | 41.38% |
 
-Here is the example of VQA task:
+Here is the example of VQA task:<br>
 ![result](./png/What_is_behind_the_bench.png) 
 
 What is behind the bench ?
